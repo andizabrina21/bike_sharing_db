@@ -15,11 +15,12 @@ Analisis dilakukan dengan menggunakan Python melalui Colab. Dari proses analisis
 
 Untuk lebih jelasnya dapat dilihat [disini](bike_sharing_analysis.ipynb).
 
-## Live Demo
-Akses dashboard online di Streamlit Cloud:
+## Dashboard
+Untuk melihat hasil visualisasi data dalam bentuk dashboard, ada dua cara sebagai berikut:
+### Akses dashboard online di Streamlit Cloud
 [Klik di sini untuk melihat dashboard](https://bikesharing-dashboardd.streamlit.app/).
 
-## Jalankan di Lokal
+### Run di Lokal
 1. Clone repository
 2. Install library yang dibutuhkan
 3. Jalankan dashboard, ketik pada terminal sebagai berikut
